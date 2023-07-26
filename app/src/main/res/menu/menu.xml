@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/faculty"
+        android:icon="@drawable/baseline_groups_24"
+        android:title="Faculty" />
+
+    <item
+        android:id="@+id/cls"
+        android:icon="@drawable/baseline_class_24"
+        android:title="Class" />
+</menu>
